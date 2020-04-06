@@ -1,0 +1,150 @@
+
+
+
+.box-1{
+    background:url('../img/bg.png');
+    background-size: cover;
+    height: 460px;
+    width: 498px;
+    margin-top: 5%;
+    margin-left: 7%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+
+}
+
+#form-login{
+    background-color: white;
+    height: 460px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 410px;
+ 
+    margin-left: 87%;
+    
+    
+    
+}
+
+.txt-logo{
+    margin-left: 10%;
+    margin-top: -20%;
+    text-shadow: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.txt-subtext{
+    margin-left: 10%;
+    margin-top: -20%;
+    color: white;
+    font-size: 12px;
+    text-shadow: rgba(0, 0, 0, 0.5);
+    margin-top: 1%;
+}
+
+.btn-signup{
+    font-size: 13px;
+    margin-left: 10%;
+    border: none;
+    width: 151px;
+    height: 41px;
+    border-radius: 26px;
+    background-color:#D87BE8;
+    color: white;
+}
+
+.txt-header{
+    color: #D87BE8;
+    margin-left: 50%;
+    margin-top: -26%;
+    font-size: 14px;
+    
+}
+
+.txt-judul{
+    color: #D87BE8;
+    margin-left: 50%;
+    margin-top: -12%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+  /* Form LOGIN */
+
+  .em-label{
+      margin-left:50% ;
+      margin-top: 1%;
+      font-size: 12px;
+    }
+
+
+  .email-txt{
+     
+      margin-left: 50%;
+      width: 25%;
+      height: 35px;
+      font-size: 13px;
+      border-radius: 30px;
+    }
+
+    .btn-login{
+        margin-left: 50%;
+        width: 25%;
+        margin-top: 3%;
+        background-color: #D87BE8;
+        border: #D87BE8;
+        font-size: 15px;
+        height: 50px;
+    }
+  
+/* VIDEO BACKGROUND CSS */
+body #bg-video{
+    position: fixed;
+    background-size: cover;
+    margin: auto;
+    height: 2000px;
+    margin-top: -13%;
+    margin-left: -30%;
+    z-index: -1;
+     filter: blur(3px);
+  -webkit-filter: blur(3px);
+}
+
+#bg-color{
+    background-color: #D87BE8 !important;
+}
+
+.container{
+    margin-top: 10%;
+}
+
+.ic-fb{
+    margin-left: 10%;
+    height: 20px;
+    margin-top: 3%;
+}
+
+.ic-tw{
+    margin-left:15px;
+    height: 20px;
+    margin-top: 3%;
+}
+.ic-ig{
+    margin-left:15px;
+    height: 20px;
+    margin-top: 3%;
+}
+.forgot{
+    font-size: 10px;
+    margin-top: -3%;
+    margin-left: 57%;
+    color: blue;
+}
+
+.box-sizing{
+    margin: auto;
+    margin-top: 5% !important;
+}

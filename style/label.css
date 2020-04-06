@@ -1,0 +1,26 @@
+/* VIDEO BACKGROUND CSS */
+body #bg-video{
+    position: fixed;
+    background-size: cover;
+    margin: auto;
+    height: 2000px;
+    margin-top: -13%;
+    margin-left: -30%;
+    z-index: -1;
+     filter: blur(3px);
+  -webkit-filter: blur(3px);
+}
+
+
+.text-header{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.txt-bg{
+    height: 100px;
+    width: 100px;
+    color: black;
+    
+}
